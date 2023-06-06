@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666012607 source:c:\users\omkar\documents\cpp\amso\amsoclass.cpp
+	"AMSOclass.h"
+	<iostream>
+
+1666012585 c:\users\omkar\documents\cpp\amso\amsoclass.h
+
+1666012539 source:c:\users\omkar\documents\cpp\amso\main.cpp
+	<iostream>
+	"AMSOclass.h"
+

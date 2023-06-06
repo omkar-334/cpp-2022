@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666163627 source:c:\users\omkar\documents\cpp\ex\exclass.cpp
+	"exclass.h"
+	<iostream>
+
+1666163714 c:\users\omkar\documents\cpp\ex\exclass.h
+
+1666163684 source:c:\users\omkar\documents\cpp\ex\main.cpp
+	<iostream>
+	"exclass.h"
+

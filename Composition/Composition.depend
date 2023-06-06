@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1668090194 source:c:\users\omkar\documents\cpp\composition\birthday.cpp
+	<iostream>
+	"Birthday.h"
+
+1668090189 c:\users\omkar\documents\cpp\composition\birthday.h
+
+1668090531 source:c:\users\omkar\documents\cpp\composition\people.cpp
+	<iostream>
+	"People.h"
+	<string>
+	"Birthday.h"
+
+1668175353 c:\users\omkar\documents\cpp\composition\people.h
+	<string>
+	"Birthday.h"
+

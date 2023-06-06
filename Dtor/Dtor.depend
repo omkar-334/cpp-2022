@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666013850 source:c:\users\omkar\documents\cpp\dtor\main.cpp
+	<iostream>
+	"Dtorclass.h"
+
+1666014708 c:\users\omkar\documents\cpp\dtor\dtorclass.h
+
+1666013904 source:c:\users\omkar\documents\cpp\dtor\dtorclass.cpp
+	<iostream>
+	"Dtorclass.h"
+
